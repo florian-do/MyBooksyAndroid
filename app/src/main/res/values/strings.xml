@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Booksy</string>
+    
+    <string name="select_service_message">Booksy lets you easily find health and beauty services in your area.</string>
+    <string name="select_service_message2">First, show me services for:</string>
+    
+    <string name="select_service_type_women">Women</string>
+    <string name="select_service_type_men">Men</string>
+    <string name="select_service_type_both">Both</string>
+</resources>
